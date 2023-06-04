@@ -1,0 +1,4 @@
+/basicproject.egg-info
+/dist
+/cli/__pycache__
+/cli/commands/__pycache__
